@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+.col {
+    padding: 5px;
+    margin: 5px;
+    max-width: 45%;
+    max-height: 600px;
+}
+#home-brewery-text, #home-brewery-text-plant, #home-brewery-text-insect{
+    overflow: scroll;
+    max-width: 100%;
+    max-height: 400px;
+}
