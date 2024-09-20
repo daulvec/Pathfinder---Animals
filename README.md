@@ -3,3 +3,5 @@ Dumb little app to make formating Pathfinder animals and Plants easier to insert
 Pathfinder 1st edition
 and I converted the data from here into json
 https://www.d20pfsrd.com/bestiary/
+
+stuff is very broken at the moment
